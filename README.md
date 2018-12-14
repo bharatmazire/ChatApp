@@ -20,5 +20,3 @@ The chat application should have following features:
 3. You can read reply when you send a message or have a separate thread to monitor the queue for incoming messages(optional).
 
 4. Single program should serve the purpose. No dedicated chat server is needed.
-
-Please find the attached sample output for your reference. Your may have different interface for your chat application.
