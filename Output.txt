@@ -1,0 +1,104 @@
+bharat@bharat:~/Desktop/bharat$ ./Chat 
+	Welcome! 
+		Enter Your alias name : bharat
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+You have No Message 
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+History not present for bharat File
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 1
+Enter chat person name : user1
+Type your text :
+bharat : Hello
+bharat : Hi
+bharat : bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+You have No Message 
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message to : user1
+____________________________
+	Hello
+	Hi
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 4
+Exiting
+bharat@bharat:~/Desktop/bharat$ ./Chat 
+	Welcome! 
+		Enter Your alias name : user1
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 2
+Viewing Message :  
+user2 say's : a
+user2 say's : bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message from : bharat
+____________________________
+	Hello
+	Hi
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 1
+Enter chat person name : bharat
+Type your text :
+user1 : hey
+user1 : bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 3
+____________________________
+Message from : bharat
+____________________________
+	Hello
+	Hi
+	bye
+____________________________
+Message to : bharat
+____________________________
+	hey
+	bye
+			1. Chat 
+			2. View your message 
+			3. View chat history 
+			4. EXIT 
+			YOUR CHOICE HERE : 4
+Exiting
+bharat@bharat:~/Desktop/bharat$
