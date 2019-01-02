@@ -2,8 +2,10 @@
 Chat Application using UNIX System V IPC message queue.
 
 **Problem statement:**
+
 Write a chat application using Unix system V IPC message queue.
 The chat application should have following features:
+
  User should able to
 1. Specify his name(chat alias) when your application runs
 2. Chat with another user using user name. 
@@ -13,6 +15,7 @@ The chat application should have following features:
 
 
 **Programming aspects:**
+
 1. Message queue will help to keep sent messages in the system buffer, so that even if your application terminates, when you'll run your application later, you can see your unread(newly received) messages.
 
 2. Code should have proper error handling. Especially while creating, using the message queue queue. 
